@@ -1,5 +1,5 @@
-
-
+const Discord = require("discord.js");
+const client = new Discord.Client();
 const Eris = require("eris");
 var kboosh = new Eris("Njk5NDUyOTMwNzg0MzYyNTE2.XpUmaw.LzfICb2CagFPghIH13f8VTUkzaQ");
 var kboosh_id = "699452930784362516";
